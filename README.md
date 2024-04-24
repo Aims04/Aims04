@@ -23,3 +23,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aims04&show_icons=true&locale=en&layout=compact" alt="aims04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aims04&" alt="aims04" /></p>
+![Aims04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aims04&theme=vue-dark&hide_border=true)
