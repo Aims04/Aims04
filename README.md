@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **aimanshariff15@outlook.com**
 
-- ⚡ Fun fact **I'm pretty good at chess haha!**
+- ⚡ Fun fact **I'm pretty good at chess, haha!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
