@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Deepfake AI Audio & Video Detection**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning ** Vanilla Javascript**
 
 - 💬 Ask me about **Python, Django and Cybersecurity!**
 
