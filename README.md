@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working on **Deepfake AI Audio & Video Detection**
+- 🔭 I’m currently researching on **Deepfake AI Detection**
 
-- 🌱 I’m currently learning **Vanilla Javascript**
+- 🌱 I’m currently learning **Junit Testing with Springboot**
 
-- 💬 Ask me about **Python, Django and Cybersecurity!**
+- 💬 Ask me about **JAVA, Springboot & Cybersecurity!**
 
 - 📫 How to reach me **aimanshariff15@outlook.com**
 
